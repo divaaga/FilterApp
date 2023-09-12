@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+}
+
+h3 {
+    font-size: 25px !important;
+}
+
+canvas {
+    box-shadow: 1px 1px 38px;
+    border-style: ridge;
+}
